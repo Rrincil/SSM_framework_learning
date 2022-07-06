@@ -1,8 +1,9 @@
 # 一、初识Spring
-* Spring 是分层的JavaSE/EE应用full-stack<span style="color:red;font-weight:800;">轻量级开源框架，以ioc（反转控制）和ACP（面向切面编程）为内核</span>
+* Spring 是分层的JavaSE/EE应用full-stack<span style="color:red;font-weight:800;">轻量级开源框架，以ioc（反转控制）和ACP（面向切面编程）的容器</span>
   * 轻量级：体积小，对代码无侵入性
   * 控制反转ioc(inverse of control)：把创建对象的工作交给Spring来完成，Spring在创建对象的时候同时可以完成对象属性赋值
   * 面向切面ACP(Aspect Oriented Programming)：可以在不改变原有业务逻辑的情况下实现对业务逻辑的增强。
+  * 容器：实例的容器，管理创建的对象
 * 提供展现层SpringMV和持久层Spring JDBCTemplate以及业务层事务管理等总舵企业级应用技术
 * 整合开源众多第三方框架和库，逐渐成为使用最多的JavaEE企业级开源框架
 * Rod Johnson(Spring 之父)
