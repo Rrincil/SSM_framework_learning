@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring学习/Spring_IoC/IoC.iml" filepath="$PROJECT_DIR$/Spring学习/Spring_IoC/IoC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SSM_framework_learning.iml" filepath="$PROJECT_DIR$/.idea/SSM_framework_learning.iml" />
     </modules>
   </component>
